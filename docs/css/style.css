@@ -359,6 +359,140 @@ main {
   height: 3rem;
 }
 
+/* Degree */
+.degree {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  gap: 2rem;
+  width: 100%;
+  position: relative;
+}
+.degree__aside {
+  flex-shrink: 1;
+  min-width: 22%;
+  border-radius: var(--border-radius);
+  overflow: hidden;
+  position: relative;
+  padding: 1.5rem;
+  background-color: var(--dark-gray);
+  position: sticky;
+  top: 9.45rem;
+  left: 0;
+}
+.degree__aside h3 {
+  padding: 0;
+  margin: 0 0 1rem;
+  font-weight: 400;
+}
+.degree__aside h3:nth-of-type(2) {
+  padding: 0;
+  margin: 2rem 0 1rem;
+  font-weight: 400;
+}
+.degree__aside ol,
+.degree__aside ul {
+  padding-left: 1.5rem;
+}
+.degree__aside li {
+  margin-bottom: 0.5rem;
+}
+.degree__aside a {
+  text-decoration: none;
+  color: var(--white);
+  transition: all 0.4s ease;
+}
+.degree__aside a:hover {
+  text-decoration: underline;
+  color: var(--light-gray);
+}
+.degree__content {
+  display: flex;
+  flex-direction: column;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  width: 300%;
+  flex-shrink: 1;
+  position: relative;
+}
+.degree__title {
+  margin: 0;
+  padding: 0;
+  font-size: 4rem;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+.degree__module {
+  width: 100%;
+  margin: -8rem 0 1rem;
+  position: relative;
+}
+.degree__module h4 {
+  margin: 9.5rem 0 1.25rem;
+  padding: 0;
+  font-size: 2rem;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+.degree__module p {
+  width: 100%;
+  font-weight: 400;
+  color: var(--light-gray);
+  line-height: 1.7rem;
+  font-size: 1.2rem;
+  text-align: justify;
+}
+.degree__module br {
+  display: block;
+  line-height: 1rem;
+  height: 1rem;
+  content: " ";
+}
+.degree__module img {
+  width: 100%;
+  aspect-ratio: 1.816;
+  object-fit: cover;
+  border-radius: var(--border-radius);
+  margin-top: 1rem;
+}
+.degree__year {
+  position: relative;
+  width: 100%;
+  margin: -8rem 0 2.5rem;
+  padding-left: 0;
+}
+.degree__year h5 {
+  margin: 9.5rem 0 1rem;
+  padding: 0;
+  font-size: 1.4rem;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.degree__subject {
+  width: 100%;
+  margin: 0 0 0.2rem 1.5rem;
+}
+.degree__subject h6 {
+  margin: 0;
+  padding: 0;
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+.degree__subject p {
+  width: 100%;
+  font-weight: 400;
+  color: var(--light-gray);
+  line-height: 1rem;
+  font-size: 1rem;
+  margin: 0.5rem 0 1.5rem;
+}
+.degree p a {
+  font-weight: 700;
+  color: var(--extra1);
+}
+
 /* Footer */
 footer {
   width: 100%;
