@@ -51,6 +51,7 @@ The following project is an HTML and CSS website in which you can find informati
 ### 7. Creating and styling contact.html
 
 - Created contact.html (executed sixth push because of contact.html creation).
+- Included basic structure, header and footer, and all content inside main tag and its styles for the contact page.
 
 ## Problems
 
