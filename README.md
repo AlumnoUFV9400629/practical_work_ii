@@ -26,6 +26,10 @@ Hugo Prieto Petrossi - Practical Work II - FCE - EPS - UFV - 2024/2025
 - Created all content inside the main tag in degree.html and styled it.
 - Modyfing the highlighted element of the navbar in degree page.
 
+### 4. Creating and styling fce.html
+
+- Created fce.html (executed third push because of fce.html creation).
+
 ## Problems
 
 ## Conclusions
