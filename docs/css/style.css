@@ -1,0 +1,99 @@
+/* General Styles */
+:root {
+  --white: #fff;
+  --light-gray: #858585;
+  --dark-gray-alfa: #16161880;
+  --dark-gray: #1f1f1f;
+  --black: #1b1b1b;
+  --extra1: #14528c;
+  --extra2: #a10a8a;
+  --border-radius: 1rem;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  background: var(--black);
+  font-size: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--white);
+  margin: 0;
+}
+
+/* Header */
+header {
+  position: fixed;
+  top: 2rem;
+  left: 4rem;
+  right: 4rem;
+  z-index: 1000;
+}
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  border-radius: var(--border-radius);
+  padding: 0.2rem 1.5rem;
+  background-color: var(--dark-gray-alfa);
+  -webkit-backdrop-filter: blur(2.5rem);
+  backdrop-filter: blur(2.5rem);
+  overflow: hidden;
+}
+.nav__title {
+  font-size: 1.15rem;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+.nav__list {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  padding: 0;
+}
+.nav__element {
+  color: var(--light-gray);
+  font-size: 1rem;
+}
+.nav__element--active {
+  color: var(--white);
+}
+.nav__element a {
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.4s ease;
+}
+.nav__element a:hover {
+  color: var(--white);
+}
+.nav__ufv-logo {
+  margin-left: 2rem;
+  margin-top: -0.37rem;
+  margin-bottom: -0.37rem;
+  margin-right: -0.37rem;
+  width: 2rem;
+  height: 2rem;
+}
+.nav__ufv-logo a {
+  margin: 0;
+  padding: 0;
+  background-color: unset;
+  border: unset;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  text-decoration: none;
+  color: var(--white);
+}
+.nav__ufv-logo a img {
+  height: 100%;
+  width: 100%;
+}
+
+/* Main */
+main {
+  min-height: 100vh;
+  padding: 9.45rem 4rem 4rem;
+}
