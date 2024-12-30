@@ -97,3 +97,32 @@ main {
   min-height: 100vh;
   padding: 9.45rem 4rem 4rem;
 }
+
+/* Footer */
+footer {
+  width: 100%;
+  background: var(--dark-gray-alfa);
+  height: 4rem;
+  padding: 0 4rem;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+footer div {
+  display: flex;
+  gap: 1.2rem;
+}
+footer a {
+  color: var(--extra1);
+  transition: all 0.4s ease;
+  font-weight: 600;
+  max-height: 2rem;
+}
+footer img {
+  height: 2rem;
+  width: 2rem;
+}
+footer a:hover {
+  color: var(--extra2);
+}
