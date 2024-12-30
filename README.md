@@ -8,7 +8,7 @@ The following project is an HTML and CSS website in which you can find informati
 
 ## Process
 
-### 1. Project Initiation (From 1st Push to 2nd Push)
+### 1. Project Initiation
 
 - Finished the initial project structure including: files and folder structure, README headings & .gitignore configuration (executed first push because of index.html creation).
 - Started the HTML structure of index page, including the navbar with UFV logo. Added basic styles and the styles of the navbar to the styles file.
@@ -36,11 +36,16 @@ The following project is an HTML and CSS website in which you can find informati
 ### 5. Creating and styling topic.html
 
 - Corrected typo in readme first line of <<4. Creating and styling fce.html>>
-- Created topic.html (executed third push because of topic.html creation).
+- Created topic.html (executed fifth push because of topic.html creation).
 - Included basic structure, header and footer for the topic page.
 - Corrected structure for it to be of the topic page and not of the fce page.
 - Created all content inside the main tag in about.html and styled it.
 - Corrected readme.md, added description and problems.
+
+### 6. Creating and styling net.html
+
+- Corrected typo in readme second line of <<5. Creating and styling net.html>>
+- Created net.html (executed sixth push because of net.html creation).
 
 ## Problems
 
