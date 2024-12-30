@@ -21,6 +21,9 @@ Hugo Prieto Petrossi - Practical Work II - FCE - EPS - UFV - 2024/2025
 
 ### 3. Creating and styling degree.html
 
+- Created degree.html (executed third push because of degree.html creation).
+- Included header, footer and their styles for the degree page.
+
 ## Problems
 
 ## Conclusions
