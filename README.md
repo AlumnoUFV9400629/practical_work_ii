@@ -11,6 +11,7 @@ Hugo Prieto Petrossi - Practical Work II - FCE - EPS - UFV - 2024/2025
 - Finished the initial project structure including: files and folder structure, README headings & .gitignore configuration (executed first push because of index.html creation).
 - Started the HTML structure of index page, including the navbar with UFV logo. Added basic styles and the styles of the navbar to the styles file.
 - Created the footer and styled it.
+- Created all content inside the main tag in index.html and styled it.
 
 ## Problems
 
