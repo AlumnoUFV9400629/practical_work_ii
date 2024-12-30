@@ -35,6 +35,7 @@ Hugo Prieto Petrossi - Practical Work II - FCE - EPS - UFV - 2024/2025
 
 - Corrected typo in readme first line of <<4. Creating and styling fce.html>>
 - Created topic.html (executed third push because of topic.html creation).
+- Included header, footer and their styles for the topic page.
 
 ## Problems
 
