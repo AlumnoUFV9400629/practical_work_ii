@@ -48,6 +48,10 @@ The following project is an HTML and CSS website in which you can find informati
 - Created net.html (executed sixth push because of net.html creation).
 - Included basic structure, header and footer, and all content inside main tag and its styles for the net page.
 
+### 7. Creating and styling contact.html
+
+- Created contact.html (executed sixth push because of contact.html creation).
+
 ## Problems
 
 As for the programming part, it was a bit of a problem to code the piano from topic.html using flexbox, it required a bit of creativity. I had no more problems regarding the programming part. However, I did have a problem with the git part. As I didn't understand correctly the 6 pushes instruction, I had to repeat the work again, because in stead of performing just a push for each page, I started by making a push every time I created a page and then pushes as the development went on, which lead to far more than 6 pushes being done. This error forced me to repeat the whole project, except for the code, which I had already written.
