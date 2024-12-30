@@ -17,6 +17,7 @@ Hugo Prieto Petrossi - Practical Work II - FCE - EPS - UFV - 2024/2025
 
 - Created about.html (executed second push because of about.html creation).
 - Included header, footer and their styles for the about page.
+- Created all content inside the main tag in about.html and styled it.
 
 ## Problems
 
