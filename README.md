@@ -46,6 +46,7 @@ The following project is an HTML and CSS website in which you can find informati
 
 - Corrected typo in readme second line of <<5. Creating and styling net.html>>
 - Created net.html (executed sixth push because of net.html creation).
+- Included basic structure, header and footer, and all content inside main tag and its styles for the net page.
 
 ## Problems
 
