@@ -29,6 +29,7 @@ Hugo Prieto Petrossi - Practical Work II - FCE - EPS - UFV - 2024/2025
 ### 4. Creating and styling fce.html
 
 - Created fce.html (executed third push because of fce.html creation).
+- Included header, footer all content inside main tag and their styles for the FCE page.
 
 ## Problems
 
